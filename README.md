@@ -3,7 +3,7 @@
 * download and install mysql Connector. for installation mysql connector below code have to run
 
 '''
-python -m pip install mysql-connector 
+$ python -m pip install mysql-connector 
 '''
 
 * Now create one file and setup connection of mysql using follow command
